@@ -8,7 +8,7 @@
 import	java.util.Scanner;
 import	java.lang.Math;
 
-class Wind_chill_Temperature
+class Wind_Chill_Temperature
 {
 	static void	wct()
 	{
