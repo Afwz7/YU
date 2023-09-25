@@ -22,6 +22,7 @@ class	DisplayTime
 
 		mnt = scs / 60;
 		rem_scs = scs % 60;
+		time.close();
 		System.out.printf("%d seconds is %d minutes and %d seconds\n", scs, mnt, rem_scs);
 	}
 	public static void main (String[] arguments)
